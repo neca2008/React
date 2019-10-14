@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neca2008/React.git"
+    "url": "git+git@github.com:neca2008/React.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neca2008/React/issues"
+    "url": "git@github.com:neca2008/React.git/issues"
   },
-  "homepage": "https://github.com/neca2008/React#readme"
+  "homepage": "git@github.com:neca2008/React.git#readme"
 }
